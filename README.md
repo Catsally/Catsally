@@ -6,6 +6,6 @@
 
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=Catsally&amp;count_private=true&amp;include_all_commits=true&amp;theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catsally&amp;theme=synthwave" width="354px">
 </p>
-
 <p align="center"> you probably want to avoid downloading anything from here</p>
