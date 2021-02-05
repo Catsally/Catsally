@@ -7,3 +7,5 @@
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=Catsally&amp;count_private=true&amp;include_all_commits=true&amp;theme=synthwave">
 </p>
+
+<p align="center"> you probably want to avoid downloading anything here</p>
